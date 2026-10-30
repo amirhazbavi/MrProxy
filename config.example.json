@@ -1,0 +1,7 @@
+{
+  "worker_url": "mrproxy.your-subdomain.workers.dev",
+  "uuid": "50414e45-4c5f-5a45-5553-a83e1adb66b6",
+  "worker_name": "mrproxy",
+  "account_id": "YOUR_ACCOUNT_ID",
+  "created_at": "2025-01-01T00:00:00"
+}
